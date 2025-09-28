@@ -1,3 +1,4 @@
 #gymnasium Idee DB
 
-![Gym Logo](/logo.png)
+<img src="/gymlogo.png" alt="Gym Logo" width="100%">
+
